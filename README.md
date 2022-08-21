@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Pablo Moya García</h1>
-<h3 align="center">A fullstack developer that also has knowledge and experience in videogame development.</h3>
+<h3 align="center">Fullstack developer and also have knowledge and experience in videogame development.</h3>
 
 - 👨‍💻 All of my projects are available at my portfolio [https://pablomoga9.github.io/Ramp-Up/](https://pablomoga9.github.io/Ramp-Up/)
 
