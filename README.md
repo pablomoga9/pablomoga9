@@ -5,6 +5,24 @@
 
 - 📫 Contact **moyagarcia99@gmail.com**
 
+<h3 align="left">I feel comfortable with:</h3>
+- JavaScript
+- Typescript
+- HTML5 & CSS3
+- ReactJs
+- Sass
+- NodeJs
+- NestJs
+- ExpressJs
+- JWT, OAuth, Auth0, Passport
+- Websocket
+- NoSQL (MongoDB & Mongoose)
+- SQL (MySQL, PostgreSQL)
+- Firebase (Realtime Database, Cloud Storage)
+- Testing with Cypress & Jest
+- Version-Control with GitHub
+- REST architecture & RESTful APIs
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablo-moya-garc%c3%ada-526588167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-moya-garc%c3%ada-526588167/" height="30" width="40" /></a>
