@@ -6,6 +6,7 @@
 - 📫 Contact **moyagarcia99@gmail.com**
 
 <h3 align="left">I feel comfortable with:</h3>
+
 - JavaScript
 - Typescript
 - HTML5 & CSS3
