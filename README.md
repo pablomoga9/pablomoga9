@@ -10,6 +10,8 @@
 - HTML5 & CSS3
 - ReactJs
 - Sass
+- PHP
+- Laravel
 - NodeJs
 - NestJs
 - ExpressJs
